@@ -1,23 +1,17 @@
-import logo from './logo.svg';
+/*
+ * @Author: your name
+ * @Date: 2021-07-03 17:33:33
+ * @LastEditTime: 2021-07-03 17:59:47
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Editapp
+ * @FilePath: /react_admin_client/src/App.js
+ */
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    APP....
     </div>
   );
 }
